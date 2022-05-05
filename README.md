@@ -12,3 +12,4 @@
 - ⚡ Fun fact: I am the Big Fan of SRK...
 
 <img src = "https://github-readme-stats.vercel.app/api?username=ayushgupta5&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgupta5&layout=compact">
