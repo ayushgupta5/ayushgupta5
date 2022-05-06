@@ -1,3 +1,6 @@
+
+![Coder_Gif](https://user-images.githubusercontent.com/43727988/167056955-e0c3e531-e2bc-43b5-8e61-2572c20a7f24.gif)
+
 ### Hi, I'm Ayush Gupta 👋
 
 
