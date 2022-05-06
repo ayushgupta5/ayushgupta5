@@ -1,4 +1,8 @@
-<img src=”https://user-images.githubusercontent.com/43727988/167056955-e0c3e531-e2bc-43b5-8e61-2572c20a7f24.gif" alt=”my banner”>
+<p align=”center”>
+
+<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/43727988/167056955-e0c3e531-e2bc-43b5-8e61-2572c20a7f24.gif" alt=”my banner”>
+
+</p>
 
 ### Hi, I'm Ayush Gupta 👋
 
