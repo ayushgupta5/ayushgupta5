@@ -9,6 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: ayushgupta5/blog-post-workflow@master
+      - uses: ayushgupta5/ayushgupta5
         with:
           feed_list: 'https://dev.to/ayushgupta5, https://medium.com/@ayush_gupta4'
