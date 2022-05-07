@@ -5,6 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushgupta5&label=Profile%20views&color=0e75b6&style=flat" alt="ayushgupta5" /> </p>
 
 
+
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=ayushgupta5&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/ayushgupta5)
 
 <p align="left"> <a href="https://twitter.com/ayush_gupta4" target="blank"><img src="https://img.shields.io/twitter/follow/ayush_gupta4?logo=twitter&style=for-the-badge" alt="ayush_gupta4" /></a> </p>
@@ -45,12 +46,13 @@
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=ayushgupta5&theme=react-dark&hide_border=true&area=true)
  <br/>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushgupta5&" alt="ayushgupta5" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushgupta5&show_icons=true&locale=en&layout=compact" alt="ayushgupta5" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushgupta5&show_icons=true&locale=en" alt="ayushgupta5" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushgupta5&" alt="ayushgupta5" /></p>
+
 
 
 <h3 align="left">Support:</h3>
