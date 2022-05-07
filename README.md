@@ -2,6 +2,8 @@
 <img align="center" width="1100" height = "350" src="Hand%20Wave.gif">
 <h3 align="center">A Passionate Software Developer from India</h3>
 
+### Liked my Contributions:question::point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushgupta5&label=Profile%20views&color=0e75b6&style=flat" alt="ayushgupta5" /> </p>
 
 
