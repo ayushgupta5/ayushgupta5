@@ -18,8 +18,6 @@
 
 - 📫 How to reach me **ayushgupta.ac@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ySdX9edcI22FkxagQ7vSz0t8HpDktz5N/view?usp=sharing](https://drive.google.com/file/d/1ySdX9edcI22FkxagQ7vSz0t8HpDktz5N/view?usp=sharing)
-
 - ⚡ Fun fact **I am the big fan of SRK...**
 
 ### Blogs posts
