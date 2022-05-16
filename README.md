@@ -52,7 +52,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushgupta5&show_icons=true&locale=en" alt="ayushgupta5" /></p>
 
-
+<summary>:shipit: A Detailed Glimpse of my Profile</summary>
+     
+ ![metric](https://github.com/ayushgupta5/ayushgupta5/blob/main/github-metrics.svg)
 
 
 <h3 align="left">Support:</h3>
