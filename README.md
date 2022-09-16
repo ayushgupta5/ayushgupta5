@@ -10,7 +10,7 @@
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=ayushgupta5&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/ayushgupta5)
 
-<p align="left"> <a href="https://twitter.com/ayush_gupta4" target="blank"><img src="https://img.shields.io/twitter/follow/ayush_gupta4?logo=twitter&style=for-the-badge" alt="ayush_gupta4" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ayush__gupta4" target="blank"><img src="https://img.shields.io/twitter/follow/ayush_gupta4?logo=twitter&style=for-the-badge" alt="ayush_gupta4" /></a> </p>
 
 - 🔭 I’m currently working on [TODO App](https://github.com/ayushgupta5/GoLangCrud)
 
