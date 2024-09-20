@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/ayush__gupta4" target="blank"><img src="https://img.shields.io/twitter/follow/ayush_gupta4?logo=twitter&style=for-the-badge" alt="ayush_gupta4" /></a> </p>
 
-- 🔭 I’m currently working on [TODO App](https://github.com/ayushgupta5/GoLangCrud)
+- 🔭 I’m currently working on [Low Level Design](https://github.com/ayushgupta5/LLD)
 
 - 💬 Ask me about **DSA, C, C++**
 
