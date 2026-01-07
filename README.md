@@ -63,8 +63,6 @@ const ayushGupta = {
 ### 📬 **Get in Touch**
 
 [![Email](https://img.shields.io/badge/Email-ayushgupta.ac%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ayushgupta.ac@gmail.com)  
-[![Phone](https://img.shields.io/badge/Phone-%2B91%209927135468-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+919927135468)
-
 </td>
 </tr>
 </table>
@@ -82,21 +80,18 @@ const ayushGupta = {
 <table>
 <tr>
 <td width="33%" align="center">
-<img src="https://img.icons8.com/color/96/000000/revenue.png" alt="Revenue" width="60"/>
 
 ### 💰 **Revenue Platform**
 Built configurable fee engine integrated across **15+ APIs** with zero downtime
 
 </td>
 <td width="33%" align="center">
-<img src="https://img.icons8.com/color/96/000000/speed.png" alt="Performance" width="60"/>
 
 ### ⚡ **Performance**
 Achieved **10x query optimization** and **40% faster** batch processing
 
 </td>
 <td width="33%" align="center">
-<img src="https://img.icons8.com/color/96/000000/checkmark.png" alt="Reliability" width="60"/>
 
 ### 🛡️ **Reliability**
 Maintained **99.5% stability** with **100+ deployments** and zero critical rollbacks
@@ -108,21 +103,18 @@ Maintained **99.5% stability** with **100+ deployments** and zero critical rollb
 <table>
 <tr>
 <td width="33%" align="center">
-<img src="https://img.icons8.com/color/96/000000/automation.png" alt="Automation" width="60"/>
 
 ### 🤖 **Automation**
 Reduced manual operations by **60%**, saving ~200 hours/month
 
 </td>
 <td width="33%" align="center">
-<img src="https://img.icons8.com/color/96/000000/email.png" alt="Notifications" width="60"/>
 
 ### 📧 **Infrastructure**
 Redesigned notification system achieving **95% reliability** improvement
 
 </td>
 <td width="33%" align="center">
-<img src="https://img.icons8.com/color/96/000000/api.png" alt="APIs" width="60"/>
 
 ### 🔧 **APIs**
 Developed **15+ production-grade APIs** serving thousands of requests daily
@@ -172,19 +164,19 @@ Developed **15+ production-grade APIs** serving thousands of requests daily
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
+
 <a href="https://github.com/ayushgupta5">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayushgupta5&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgupta5&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/ayushgupta5">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ayushgupta5&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ffd700&currStreakLabel=00d9ff&sideLabels=00d9ff&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ayushgupta5&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ffd700&currStreakLabel=00d9ff&sideLabels=00d9ff&currStreakNum=ffffff&sideNums=ffffff&dates=c9d1d9" alt="GitHub Streak" />
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/ayushgupta5">
   <img src="https://github-profile-trophy.vercel.app/?username=ayushgupta5&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&rank=-C,-?" alt="GitHub Trophies" />
@@ -317,8 +309,6 @@ Developed **15+ production-grade APIs** serving thousands of requests daily
 
 <div align="center">
 
-<img src="https://img.icons8.com/color/96/000000/code.png" alt="Code Philosophy" width="80"/>
-
 > **"Ship fast, ship reliably, and make it maintainable—that's how great engineering teams win."**
 
 </div>
@@ -329,38 +319,28 @@ Developed **15+ production-grade APIs** serving thousands of requests daily
 
 ### 🎨 **Design Principles**
 
-```yaml
-reliability:
-  "Systems that handle failures gracefully
-   and recover automatically"
+**Reliability**  
+Systems that handle failures gracefully and recover automatically
 
-maintainability:
-  "Code that others can understand,
-   extend, and build upon"
+**Maintainability**  
+Code that others can understand, extend, and build upon
 
-pragmatism:
-  "Balancing technical excellence
-   with business velocity"
-```
+**Pragmatism**  
+Balancing technical excellence with business velocity
 
 </td>
 <td width="50%">
 
 ### ⚡ **What Drives Me**
 
-```yaml
-speed:
-  "Debugging production issues quickly
-   under pressure"
+**Speed**  
+Debugging production issues quickly under pressure
 
-collaboration:
-  "Working effectively with
-   cross-functional teams"
+**Collaboration**  
+Working effectively with cross-functional teams
 
-impact:
-  "Building systems that help people
-   do their jobs better"
-```
+**Impact**  
+Building systems that help people do their jobs better
 
 </td>
 </tr>
@@ -388,8 +368,6 @@ impact:
 
 ### **Bachelor of Technology in Computer Science & Engineering**
 
-<img src="https://img.icons8.com/fluency/96/000000/diploma.png" alt="Education" width="60"/>
-
 **Jaypee University of Information Technology, Solan** • 2016 – 2020  
 **CGPA**: 8.2/10.0
 
@@ -402,7 +380,6 @@ impact:
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/system-task.png" alt="LLD" width="60"/>
 
 ### 🏗️ **Low Level Design**
 Mastering design patterns, SOLID principles, and scalable architectures
@@ -411,14 +388,12 @@ Mastering design patterns, SOLID principles, and scalable architectures
 
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/cloud.png" alt="System Design" width="60"/>
 
 ### 📚 **System Architecture**
 Deep diving into distributed systems, consistency models, and high-availability patterns
 
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/rocket.png" alt="Performance" width="60"/>
 
 ### ⚡ **Performance Engineering**
 Exploring system optimization, profiling, and scalability techniques
@@ -470,11 +445,9 @@ Exploring system optimization, profiling, and scalability techniques
 [![Twitter](https://img.shields.io/badge/Twitter-Follow%20me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ayush_gupta4)
 [![Medium](https://img.shields.io/badge/Medium-Read%20my%20articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ayush_gupta4)
 
-### 📧 ayushgupta.ac@gmail.com • 📱 +91 9927135468 • 📍 Bengaluru, India
+### 📧 ayushgupta.ac@gmail.com • 📍 Bengaluru, India
 
 <br>
-
-<img src="https://img.icons8.com/color/96/000000/coffee-to-go.png" alt="Coffee" width="60"/>
 
 ### ☕ **Support My Work**
 
