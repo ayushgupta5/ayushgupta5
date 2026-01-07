@@ -1,103 +1,69 @@
 <div align="center">
-  
+
 # 👋 Hi, I'm Ayush Gupta
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Senior+Software+Engineer+%40+Grab;4%2B+Years+in+Backend+%26+Distributed+Systems;Building+Scalable+Fintech+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=Senior+Software+Engineer+%40+Grab;4%2B+Years+Building+Scalable+Systems;Fintech+%7C+Distributed+Systems+%7C+Backend" alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" />
 
-</div>
-
----
-
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=ayushgupta5&label=Profile%20Views&color=00d9ff&style=flat-square)](https://github.com/ayushgupta5)
-[![GitHub followers](https://img.shields.io/github/followers/ayushgupta5?label=Followers&style=flat-square&color=00d9ff&logo=github)](https://github.com/ayushgupta5?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/ayushgupta5?label=Stars&style=flat-square&color=ffd700&logo=github)](https://github.com/ayushgupta5)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/ayush-kr-gupta)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ayushgupta.ac@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=ayushgupta5&label=Profile%20Views&color=00d9ff&style=for-the-badge)](https://github.com/ayushgupta5)
+[![GitHub followers](https://img.shields.io/github/followers/ayushgupta5?label=Followers&style=for-the-badge&color=00d9ff&logo=github)](https://github.com/ayushgupta5?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/ayushgupta5?label=Total%20Stars&style=for-the-badge&color=ffd700&logo=github)](https://github.com/ayushgupta5)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ayush-kr-gupta)
 
 </div>
 
 ---
 
-## 💫 About Me
-
-```javascript
-const ayushGupta = {
-    role: "Senior Software Engineer @ Grab Financial Group",
-    location: "Bengaluru, India 🇮🇳",
-    experience: "4+ Years",
-    domain: "Fintech & Distributed Systems",
-    
-    currentlyWorkingOn: ["Low Level Design", "System Architecture", "Scalable APIs"],
-    
-    expertise: {
-        languages: ["Golang (Primary)", "Java", "C/C++", "SQL"],
-        backend: ["Microservices", "Event-Driven Architecture", "REST APIs", "gRPC"],
-        messaging: ["Apache Kafka", "AWS SQS"],
-        cloud: ["AWS (EC2, EKS, Lambda, SQS)", "Docker", "Kubernetes"],
-        databases: ["MySQL", "PostgreSQL", "Redis"],
-        tools: ["Jenkins", "Spring Boot", "MuleSoft"]
-    },
-    
-    impactMetrics: {
-        dailyEventsProcessed: "1M+",
-        productionStability: "99.5%",
-        operationalEfficiency: "+60%",
-        notificationReliability: "+95%",
-        deploymentsWithoutRollback: "100+ (Zero critical rollbacks in 12 months)"
-    },
-    
-    problemSolver: "2 AM production bugs • Complex distributed systems • Legacy code refactoring",
-    codePhilosophy: "Reliable • Maintainable • Ships on time • Doesn't break in production",
-    
-    askMeAbout: ["Backend Engineering", "Distributed Systems", "DSA", "System Design"],
-    competitiveCoding: "4100+ problems solved across platforms",
-    funFact: "Big fan of SRK ⭐",
-    
-    contact: {
-        email: "ayushgupta.ac@gmail.com",
-        phone: "+91 9927135468"
-    }
-};
-```
-
----
-
-## 🎯 Professional Highlights
+## 🚀 About Me
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🏗️ **Backend Engineering Excellence**
-- 🚀 Built **revenue generation platforms** creating new business streams
-- ⚡ Architected **event-driven systems** processing **1M+ daily messages**
-- 🔧 Developed **15+ production-grade APIs** for internal tools & customers
-- 🌐 Worked across **8+ microservices** in distributed fintech architecture
-
-### 📊 **Performance Optimization**
-- 🎯 Achieved **10x query performance** through optimization
-- 💾 Implemented **cursor-based pagination** for efficient data handling
-- ⏱️ Reduced **batch processing time by 40%**
-- 🔍 Fixed critical **N+1 query bottlenecks**
+```javascript
+const ayushGupta = {
+  title: "Senior Software Engineer",
+  company: "Grab Financial Group",
+  location: "Bengaluru, India 🇮🇳",
+  experience: "4+ Years",
+  
+  focus: [
+    "Backend Engineering",
+    "Distributed Systems", 
+    "System Architecture",
+    "Low Level Design"
+  ],
+  
+  languages: [
+    "Golang (Primary)",
+    "Java", "C/C++", "SQL"
+  ],
+  
+  architecture: [
+    "Microservices",
+    "Event-Driven Systems",
+    "REST APIs", "gRPC"
+  ]
+};
+```
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🛡️ **Production Stability**
-- ✅ Maintained **99.5% stability** across **100+ deployments**
-- 🔥 **Zero critical rollbacks** in the past 12 months
-- 🚑 Rapidly resolved issues affecting **1,000+ daily requests**
-- 📈 Implemented **distributed tracing** for faster debugging
+### 💡 **Quick Facts**
 
-### 🔄 **System Integration & Automation**
-- 📧 Modernized **notification infrastructure** (95% reliability boost)
-- 🤖 Automated operations reducing **manual work by 60%**
-- 🌍 Built **multi-channel notification** for international markets
-- 🔗 Integrated with **banking cores** and external platforms
+🔥 **1M+ daily events** processed in production  
+⚡ **99.5% stability** across 100+ deployments  
+🎯 **Zero critical rollbacks** in 12 months  
+📈 **60% reduction** in operational overhead  
+🏆 **4100+ problems** solved across platforms  
+⭐ **Big fan of SRK**
+
+### 📬 **Get in Touch**
+
+[![Email](https://img.shields.io/badge/Email-ayushgupta.ac%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ayushgupta.ac@gmail.com)  
+[![Phone](https://img.shields.io/badge/Phone-%2B91%209927135468-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+919927135468)
 
 </td>
 </tr>
@@ -105,84 +71,73 @@ const ayushGupta = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 💼 Professional Impact
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ayushgupta5&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&rank=-C,-?)](https://github.com/ryo-ma/github-profile-trophy)
+### 🎯 **Key Achievements at Grab Financial Group**
 
 </div>
 
----
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/color/96/000000/revenue.png" alt="Revenue" width="60"/>
 
-## 💼 Professional Journey
+### 💰 **Revenue Platform**
+Built configurable fee engine integrated across **15+ APIs** with zero downtime
 
-### 🚀 **Senior Software Engineer** | Grab Financial Group
-📍 *Bengaluru, India* | 📅 *March 2022 – Present*
+</td>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/color/96/000000/speed.png" alt="Performance" width="60"/>
 
-<details open>
-<summary><b>🎯 Key Achievements & Impact</b></summary>
-<br>
+### ⚡ **Performance**
+Achieved **10x query optimization** and **40% faster** batch processing
 
-#### 💰 Revenue Generation Platform
-- Built **configurable fee calculation engine** with multiple pricing models
-- Integrated across **15+ APIs** with zero production disruption
-- Implemented **automated customer notifications** for fee transparency
-- Seamless launch through comprehensive testing and phased deployment
+</td>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/color/96/000000/checkmark.png" alt="Reliability" width="60"/>
 
-#### 🤖 Automation & Efficiency
-- Developed **event-driven portfolio management** processing **1M+ daily messages**
-- Reduced **manual operations by 60%** (~200 hours/month saved)
-- Built **audit trail APIs** for regulatory compliance
-- Improved **system performance by 40%** through optimization
+### 🛡️ **Reliability**
+Maintained **99.5% stability** with **100+ deployments** and zero critical rollbacks
 
-#### 📧 Infrastructure Modernization
-- Redesigned **notification system** achieving **95% reliability improvement**
-- Reduced **customer support tickets by 30%**
-- Added **multi-channel support** with localized templates
-- Implemented **intelligent retry logic** for guaranteed delivery
+</td>
+</tr>
+</table>
 
-#### 🔧 API Development & Optimization
-- Created **high-performance search, detail, history & insight APIs**
-- Achieved **10x performance boost** using cursor-based pagination
-- Resolved **N+1 query bottlenecks** affecting user experience
-- Enhanced **batch processing efficiency by 40%**
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/color/96/000000/automation.png" alt="Automation" width="60"/>
 
-#### 🛠️ Production Support Excellence
-- Debugged critical **null pointer bugs** (1,000+ daily requests)
-- Fixed **race conditions** reducing message loss to near zero
-- Resolved **timezone issues** for international customers
-- Implemented **comprehensive monitoring & error handling**
+### 🤖 **Automation**
+Reduced manual operations by **60%**, saving ~200 hours/month
 
-**Tech Stack**: `Golang` `Kafka` `AWS (Lambda, SQS, EC2, EKS)` `MySQL` `Redis` `Docker` `Kubernetes` `Microservices`
+</td>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/color/96/000000/email.png" alt="Notifications" width="60"/>
 
-</details>
+### 📧 **Infrastructure**
+Redesigned notification system achieving **95% reliability** improvement
 
----
+</td>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/color/96/000000/api.png" alt="APIs" width="60"/>
 
-### 💻 **Software Engineer** | HashedIn by Deloitte
-📍 *Bengaluru, India* | 📅 *November 2020 – March 2022*
+### 🔧 **APIs**
+Developed **15+ production-grade APIs** serving thousands of requests daily
 
-<details>
-<summary><b>🎯 Key Contributions</b></summary>
-<br>
-
-- Developed **15+ enterprise-grade REST APIs** using Java Spring Boot and MuleSoft
-- Built **integration layers** connecting disparate enterprise systems
-- Delivered **high-quality solutions** for large-scale client projects
-- Improved **integration efficiency** through optimized API design
-
-**Tech Stack**: `Java` `Spring Boot` `MuleSoft` `REST APIs` `Microservices` `Enterprise Integration`
-
-</details>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack & Expertise
 
 <div align="center">
 
-### Languages
+### **Languages**
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -190,7 +145,7 @@ const ayushGupta = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Backend & Messaging
+### **Backend & Messaging**
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge)
@@ -198,46 +153,52 @@ const ayushGupta = {
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![AWS SQS](https://img.shields.io/badge/AWS%20SQS-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### Cloud & DevOps
+### **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
 
-### Databases & Caching
+### **Databases & Caching**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Tools & Frameworks
-![MuleSoft](https://img.shields.io/badge/MuleSoft-00A2E2?style=for-the-badge&logo=mulesoft&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<a href="https://github.com/ayushgupta5">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayushgupta5&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgupta5&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+</a>
+
+<br/>
+
+<a href="https://github.com/ayushgupta5">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ayushgupta5&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ffd700&currStreakLabel=00d9ff&sideLabels=00d9ff&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
+</a>
+
+<br/>
+
+<a href="https://github.com/ayushgupta5">
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushgupta5&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&rank=-C,-?" alt="GitHub Trophies" />
+</a>
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayushgupta5&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.demolab.com?user=ayushgupta5&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ffd700&currStreakLabel=00d9ff&sideLabels=00d9ff&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushgupta5&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayushgupta5&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff" alt="Contribution Graph" />
-</div>
-
----
-
-## 🏅 Competitive Programming
+## 🏅 Competitive Programming Excellence
 
 <div align="center">
 
-### 🎯 Total Problems Solved: **4100+** across all platforms
+### 🎯 **4100+ Problems Solved Across Platforms**
 
 <table>
 <tr>
@@ -246,6 +207,8 @@ const ayushGupta = {
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 <br><br>
 <img src="https://img.shields.io/badge/2200%2B-Problems-FFA116?style=flat-square&labelColor=black" alt="LeetCode Problems"/>
+<br>
+<img src="https://img.shields.io/badge/Dynamic-Ranking-FFA116?style=flat-square&labelColor=black" alt="LeetCode Rank"/>
 </a>
 </td>
 <td align="center" width="25%">
@@ -253,28 +216,167 @@ const ayushGupta = {
 <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG"/>
 <br><br>
 <img src="https://img.shields.io/badge/1900%2B-Problems-0F9D58?style=flat-square&labelColor=black" alt="GFG Problems"/>
+<br>
+<img src="https://img.shields.io/badge/Active-Contributor-0F9D58?style=flat-square&labelColor=black" alt="GFG Status"/>
 </a>
 </td>
 <td align="center" width="25%">
 <a href="https://www.codechef.com/users/ayush_gupta4">
 <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
 <br><br>
-<img src="https://img.shields.io/badge/4%E2%98%85-Rank%20511-5B4638?style=flat-square&labelColor=black" alt="CodeChef Rating"/>
+<img src="https://img.shields.io/badge/4%E2%98%85-Rating-5B4638?style=flat-square&labelColor=black" alt="CodeChef Rating"/>
+<br>
+<img src="https://img.shields.io/badge/Rank-511-5B4638?style=flat-square&labelColor=black" alt="CodeChef Rank"/>
 </a>
 </td>
 <td align="center" width="25%">
 <a href="https://www.hackerrank.com/profile/ayush_gupta4">
 <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
 <br><br>
-<img src="https://img.shields.io/badge/5%E2%98%85%20C%2B%2B-4%E2%98%85%20SQL-00EA64?style=flat-square&labelColor=black" alt="HackerRank Stars"/>
+<img src="https://img.shields.io/badge/5%E2%98%85-C%2B%2B-00EA64?style=flat-square&labelColor=black" alt="HackerRank C++"/>
+<br>
+<img src="https://img.shields.io/badge/4%E2%98%85-SQL-00EA64?style=flat-square&labelColor=black" alt="HackerRank SQL"/>
 </a>
 </td>
 </tr>
 </table>
 
-**Additional Profiles:**
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ayush_gupta4)
-[![HackerEarth](https://img.shields.io/badge/HackerEarth-2C3454?style=flat-square&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@ayush_gupta4)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ayush_gupta4)
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-Profile-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@ayush_gupta4)
+
+</div>
+
+---
+
+## 💼 Professional Experience
+
+### 🚀 **Senior Software Engineer** | Grab Financial Group
+📍 *Bengaluru, India* • 📅 *March 2022 – Present*
+
+<details open>
+<summary><b>🎯 Key Contributions & Technical Achievements</b></summary>
+
+<br>
+
+#### 💰 **Revenue Generation Platform**
+- Architected and deployed **configurable fee calculation engine** supporting multiple pricing models
+- Seamlessly integrated across **15+ microservices APIs** with zero production disruption
+- Implemented **automated customer notification system** for fee transparency and compliance
+- Achieved successful launch through comprehensive testing strategy and phased rollout
+
+#### 🤖 **Automation & Event-Driven Architecture**
+- Designed **event-driven portfolio management system** processing **1M+ daily messages** via Kafka
+- Reduced **manual operational overhead by 60%** (~200 hours/month saved)
+- Built **comprehensive audit trail APIs** ensuring regulatory compliance and traceability
+- Optimized **batch processing workflows** improving performance by **40%**
+
+#### 📧 **Infrastructure Modernization**
+- Re-engineered **notification infrastructure** achieving **95% reliability improvement**
+- Reduced **customer support tickets by 30%** through proactive communication
+- Implemented **multi-channel delivery system** (Email, SMS, Push) with localized templates
+- Designed **intelligent retry mechanisms** with exponential backoff for guaranteed delivery
+
+#### 🔧 **High-Performance API Development**
+- Developed **search, detail, history, and insight APIs** serving thousands of daily requests
+- Achieved **10x performance improvement** through cursor-based pagination and query optimization
+- Eliminated **N+1 query bottlenecks** impacting user experience across multiple services
+- Enhanced **data retrieval efficiency by 40%** through strategic caching and indexing
+
+#### 🛡️ **Production Excellence**
+- Rapidly diagnosed and fixed **critical null pointer exceptions** affecting 1,000+ daily requests
+- Resolved **race conditions** in distributed systems, reducing message loss to near-zero
+- Fixed **timezone handling issues** impacting international customer experience
+- Implemented **comprehensive observability** with distributed tracing and alerting
+
+**Technology Stack**: `Golang` • `Apache Kafka` • `AWS (Lambda, SQS, EC2, EKS)` • `MySQL` • `Redis` • `Docker` • `Kubernetes` • `Microservices Architecture`
+
+</details>
+
+---
+
+### 💻 **Software Engineer** | HashedIn by Deloitte
+📍 *Bengaluru, India* • 📅 *November 2020 – March 2022*
+
+<details>
+<summary><b>🎯 Contributions</b></summary>
+
+<br>
+
+- Designed and implemented **15+ enterprise-grade REST APIs** using Java Spring Boot and MuleSoft
+- Built **robust integration layers** connecting disparate enterprise systems and third-party services
+- Delivered **high-quality, scalable solutions** for Fortune 500 clients across various domains
+- Improved **system integration efficiency by 35%** through optimized API design patterns
+
+**Technology Stack**: `Java` • `Spring Boot` • `MuleSoft` • `REST APIs` • `Microservices` • `Enterprise Integration Patterns`
+
+</details>
+
+---
+
+## 🎯 Engineering Philosophy
+
+<div align="center">
+
+<img src="https://img.icons8.com/color/96/000000/code.png" alt="Code Philosophy" width="80"/>
+
+> **"Ship fast, ship reliably, and make it maintainable—that's how great engineering teams win."**
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎨 **Design Principles**
+
+```yaml
+reliability:
+  "Systems that handle failures gracefully
+   and recover automatically"
+
+maintainability:
+  "Code that others can understand,
+   extend, and build upon"
+
+pragmatism:
+  "Balancing technical excellence
+   with business velocity"
+```
+
+</td>
+<td width="50%">
+
+### ⚡ **What Drives Me**
+
+```yaml
+speed:
+  "Debugging production issues quickly
+   under pressure"
+
+collaboration:
+  "Working effectively with
+   cross-functional teams"
+
+impact:
+  "Building systems that help people
+   do their jobs better"
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 📈 **Proven Track Record**
+
+| Metric | Achievement |
+|--------|-------------|
+| 📊 **Daily Events** | 1M+ processed with high reliability |
+| ⚡ **Efficiency** | 60% reduction in operational overhead |
+| 🛡️ **Stability** | 99.5% uptime through careful engineering |
+| 👥 **Mentorship** | 30+ code reviews guiding team members |
+| 🧹 **Tech Debt** | 2,000+ lines of legacy code eliminated |
 
 </div>
 
@@ -285,35 +387,41 @@ const ayushGupta = {
 <div align="center">
 
 ### **Bachelor of Technology in Computer Science & Engineering**
-**Jaypee University of Information Technology** | 2016 – 2020  
+
+<img src="https://img.icons8.com/fluency/96/000000/diploma.png" alt="Education" width="60"/>
+
+**Jaypee University of Information Technology, Solan** • 2016 – 2020  
 **CGPA**: 8.2/10.0
 
 </div>
 
 ---
 
-## 🚀 Current Focus
+## 🚀 Current Focus & Learning
 
 <table>
 <tr>
 <td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/system-task.png" alt="LLD" width="60"/>
 
-### 🏗️ Low Level Design
-Working on design patterns, SOLID principles, and scalable architectures
+### 🏗️ **Low Level Design**
+Mastering design patterns, SOLID principles, and scalable architectures
 
-[![LLD Repo](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushgupta5/LLD)
-
-</td>
-<td align="center" width="33%">
-
-### 📚 System Architecture
-Exploring distributed systems, consistency models, and high-availability
+[![LLD Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushgupta5/LLD)
 
 </td>
 <td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/cloud.png" alt="System Design" width="60"/>
 
-### ⚡ Performance Engineering
-Deep diving into system optimization and profiling
+### 📚 **System Architecture**
+Deep diving into distributed systems, consistency models, and high-availability patterns
+
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/color/96/000000/rocket.png" alt="Performance" width="60"/>
+
+### ⚡ **Performance Engineering**
+Exploring system optimization, profiling, and scalability techniques
 
 </td>
 </tr>
@@ -321,55 +429,31 @@ Deep diving into system optimization and profiling
 
 ---
 
-## 💭 Engineering Philosophy
-
-<div align="center">
-
-> *"Good engineering isn't just about writing code—it's about understanding the business problem, making pragmatic tradeoffs, and building things that actually help people do their jobs better."*
-
-### What Drives Me
-
-```yaml
-reliability: "Systems that handle failure gracefully"
-maintainability: "Code others can understand and build upon"
-speed: "Debugging production issues quickly under pressure"
-collaboration: "Working effectively with cross-functional teams"
-pragmatism: "Balancing technical excellence with business velocity"
-```
-
-### Key Achievements
-✅ **1M+ daily events** processed with high reliability  
-✅ **60% reduction** in operational overhead  
-✅ **99.5% stability** through careful engineering  
-✅ **30+ code reviews** mentoring team members  
-✅ **2,000+ lines** of legacy code eliminated  
-
-</div>
-
----
-
-## 🎯 What I'm Looking For
+## 💡 What I Bring to the Table
 
 <table>
 <tr>
 <td width="50%">
 
-### 💡 **Areas of Interest**
-- Distributed Systems Engineering
-- High-Scale Backend Architecture
-- Platform Infrastructure Development
-- System Design & Optimization
-- Event-Driven Microservices
+### 🎯 **Areas of Expertise**
+
+- ✅ **Distributed Systems Engineering**
+- ✅ **High-Scale Backend Architecture**
+- ✅ **Platform Infrastructure Development**
+- ✅ **System Design & Optimization**
+- ✅ **Event-Driven Microservices**
+- ✅ **Production Excellence & DevOps**
 
 </td>
 <td width="50%">
 
-### 🌟 **Growth Goals**
-- Mentoring engineers and shaping technical culture
-- Influencing architectural decisions at org level
-- Building systems that scale to millions of users
-- Leading technical initiatives and complex projects
-- Contributing to open-source communities
+### 🌟 **Growth Mindset**
+
+- 🚀 Mentoring engineers and shaping technical culture
+- 🎯 Influencing architectural decisions at org level
+- 💪 Building systems that scale to millions of users
+- 🏆 Leading technical initiatives and complex projects
+- 🌍 Contributing to open-source communities
 
 </td>
 </tr>
@@ -377,46 +461,47 @@ pragmatism: "Balancing technical excellence with business velocity"
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-kr-gupta)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushgupta.ac@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ayush_gupta4)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ayush_gupta4)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/ayushgupta5)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-kr-gupta)
+[![Email](https://img.shields.io/badge/Email-ayushgupta.ac%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushgupta.ac@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow%20me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ayush_gupta4)
+[![Medium](https://img.shields.io/badge/Medium-Read%20my%20articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ayush_gupta4)
 
-### 📧 ayushgupta.ac@gmail.com | 📱 +91 9927135468 | 📍 Bengaluru, India
+### 📧 ayushgupta.ac@gmail.com • 📱 +91 9927135468 • 📍 Bengaluru, India
+
+<br>
+
+<img src="https://img.icons8.com/color/96/000000/coffee-to-go.png" alt="Coffee" width="60"/>
+
+### ☕ **Support My Work**
+
+If you find my projects helpful or learn from my content, consider buying me a coffee!
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support%20My%20Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ayushgupta5)
+
+<br>
+
+### 🌟 **GitHub Stars Nomination**
+
+Appreciate my contributions? Consider nominating me for GitHub Stars!
+
+[![Nominate for GitHub Stars](https://img.shields.io/badge/Nominate%20for%20GitHub%20Stars-Recognize%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://stars.github.com/nominate/)
 
 </div>
 
 ---
 
-## 💖 Support My Work
-
 <div align="center">
 
-If you find my work valuable, consider supporting me!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ayushgupta5)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Thanks+for+visiting!+Let's+build+something+amazing+together+🚀;Open+to+exciting+opportunities+in+Backend+Engineering+%26+Distributed+Systems;Feel+free+to+reach+out+for+collaborations+or+just+to+say+hi!+👋" alt="Footer" />
 
-### ⭐ Nominate Me for GitHub Stars
+**Made with ❤️ and lots of ☕ by Ayush Gupta**
 
-[![GitHub Stars](https://img.shields.io/badge/Nominate%20for%20GitHub%20Stars-181717?style=for-the-badge&logo=github&logoColor=white)](https://stars.github.com/nominate/)
-
-*Appreciated my contributions? Consider nominating me! 🌟*
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Thanks+for+visiting!+Let's+build+something+amazing+together+%F0%9F%9A%80;Open+to+exciting+opportunities+in+Backend+Engineering+%26+Distributed+Systems;Feel+free+to+reach+out+for+collaborations+or+just+to+say+hi!+%F0%9F%91%8B" alt="Footer" />
-
-**© 2025 Ayush Gupta** | Made with ❤️ and lots of ☕
+*© 2025 Ayush Gupta • Senior Software Engineer • Backend & Distributed Systems Specialist*
 
 </div>
