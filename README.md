@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ayush Gupta
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=Senior+Software+Engineer+%40+Grab;4%2B+Years+Building+Scalable+Systems;Fintech+%7C+Distributed+Systems+%7C+Backend" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=Software+Engineer+%40+Grab;4%2B+Years+Building+Scalable+Systems;Fintech+%7C+Distributed+Systems+%7C+Backend" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" />
 
@@ -23,7 +23,7 @@
 
 ```javascript
 const ayushGupta = {
-  title: "Senior Software Engineer",
+  title: "Software Engineer",
   company: "Grab Financial Group",
   location: "Bengaluru, India 🇮🇳",
   experience: "4+ Years",
@@ -173,13 +173,13 @@ Developed **15+ production-grade APIs** serving thousands of requests daily
 <br/><br/>
 
 <a href="https://github.com/ayushgupta5">
-  <img src="https://streak-stats.demolab.com?user=ayushgupta5&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ffd700&currStreakLabel=00d9ff&sideLabels=00d9ff&currStreakNum=ffffff&sideNums=ffffff&dates=c9d1d9" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=ayushgupta5&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ffd700&currStreakLabel=00d9ff&sideLabels=00d9ff&currStreakNum=ffffff&sideNums=ffffff&dates=c9d1d9" alt="GitHub Streak" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/ayushgupta5">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushgupta5&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&rank=-C,-?" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=ayushgupta5&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&rank=-C,-?" alt="GitHub Trophies" />
 </a>
 
 </div>
@@ -242,7 +242,7 @@ Developed **15+ production-grade APIs** serving thousands of requests daily
 
 ## 💼 Professional Experience
 
-### 🚀 **Senior Software Engineer** | Grab Financial Group
+### 🚀 **Software Engineer** | Grab Financial Group
 📍 *Bengaluru, India* • 📅 *March 2022 – Present*
 
 <details open>
@@ -475,6 +475,6 @@ Appreciate my contributions? Consider nominating me for GitHub Stars!
 
 **Made with ❤️ and lots of ☕ by Ayush Gupta**
 
-*© 2025 Ayush Gupta • Senior Software Engineer • Backend & Distributed Systems Specialist*
+*© 2025 Ayush Gupta • Software Engineer • Backend & Distributed Systems Specialist*
 
 </div>
